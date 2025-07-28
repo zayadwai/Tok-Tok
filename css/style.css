@@ -161,7 +161,7 @@ button:active {
 @media (min-width: 950px) and (max-width: 1150px)  {
   .contanier,
   nav {
-    width:100%;
+    width:40%;
     flex-direction: column;
     justify-content: space-between;
     transition: all 0.1s;
