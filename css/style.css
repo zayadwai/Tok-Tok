@@ -185,7 +185,7 @@ button:active {
   .zoz i {
     position: absolute;
     width: 100%;
-    transform: translate(170px);
+    transform: translate(200px);
   }
   button {
     padding: 15px 150px;
